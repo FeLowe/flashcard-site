@@ -1,0 +1,27 @@
+.container{
+  margin: auto;
+  /*width: auto;*/
+}
+
+.flashcard ul li {
+  height: 75px;
+}
+
+.flashcard {
+  padding: 5px;
+}
+
+li {
+  list-style-type: none;
+}
+
+#col {
+  border-style: solid;
+  border-color: blue;
+  border margin: 1px;
+
+
+}
+.answer{
+  display: none;
+}
